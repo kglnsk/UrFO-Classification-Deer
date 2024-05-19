@@ -15,15 +15,13 @@
 
 ## Установка
 
-1. Клонируйте репозиторий или скачайте файлы проекта.
-
-## Запуск
-streamlit run app.py
-
-2. Перейдите в директорию проекта.
-
 python -m venv venv
 source venv/bin/activate  # Для Windows: venv\Scripts\activate
 
 Установите необходимые библиотеки.
+
+## Запуск
+streamlit run app.py
+
+
 
