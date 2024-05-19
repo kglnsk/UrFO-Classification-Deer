@@ -23,5 +23,6 @@ source venv/bin/activate  # Для Windows: venv\Scripts\activate
 ## Запуск
 streamlit run app.py
 
-
+# Обучение
+Обучение, псевдоразметка и тестирование подходов описаны в ipynb ноутбуках classification и detection
 
