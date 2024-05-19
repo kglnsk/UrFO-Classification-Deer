@@ -1,0 +1,6 @@
+train: ./images/train
+val: ./images/val
+
+nc: 17
+names: ['Y.T.Marten', 'Leopard', 'AmurTiger', 'RoeDeer', 'Sable', 'SikaDeer', 'Weasel', 'WildBoar', 'Badger', 'BlackBear', 'Cow', 'RaccoonDog', 'Dog', 'Hare', 'LeopardCat', 'MuskDeer', 'RedFox']
+
