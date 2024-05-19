@@ -1,1 +1,29 @@
 # UrFO-Classification-Deer
+
+# YOLOv8 Detection Streamlit App
+
+Приложение позволяет загружать изображения или ZIP-архивы с изображениями, выполнять детекцию и сохранять результаты в виде сортированных архивов
+
+## Требования
+
+- Python 3.6+
+- Streamlit
+- Ultralytics
+- OpenCV
+- Pandas
+- zipfile36 (для работы с ZIP-архивами)
+
+## Установка
+
+1. Клонируйте репозиторий или скачайте файлы проекта.
+
+## Запуск
+streamlit run app.py
+
+2. Перейдите в директорию проекта.
+
+python -m venv venv
+source venv/bin/activate  # Для Windows: venv\Scripts\activate
+
+Установите необходимые библиотеки.
+
